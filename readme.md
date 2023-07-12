@@ -5,7 +5,7 @@
 </br>
 
 ## 개발인원 및 기간
-- 개발기간 : 2021-01-10 ~ 2022-01-21
+- 개발기간 : 2022-01-10 ~ 2022-01-21
 - Front-end : [Wegabox 프론트엔드 github repository 링크](https://github.com/wecode-bootcamp-korea/28-2nd-Wegabox-frontend)
 - Back-end : 강민성, 장민욱
 
